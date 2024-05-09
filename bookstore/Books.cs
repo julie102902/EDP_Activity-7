@@ -19,6 +19,7 @@ namespace bookstore
     public partial class Books : Form
     {
         //Update
+        //Merging
         // Declare private fields for database connection and command
         private MySqlConnection connection;
         private MySqlCommand command;
